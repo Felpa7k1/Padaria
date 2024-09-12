@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-color: #f4f0e5;
+    font-family: Tahoma;
+}
+
+
+
+.secao-header{
+    width: 700px;
+    text-align: center;
+    margin: 40px auto;
+}
+
+.links{
+    display: inline-block;
+    
+}
+
+a{
+    margin: 0 10px;
+    color: #542f0c;
+
+}
