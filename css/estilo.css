@@ -12,13 +12,100 @@ body {
     margin: 40px auto;
 }
 
-.links{
-    display: inline-block;
-    
+.logo{
+    width: 200px;
+    margin-bottom: 20px;
 }
 
+
 a{
+   
     margin: 0 10px;
     color: #542f0c;
 
+}
+
+.traco{
+    margin: 30px auto;
+    width: 1250px;
+    border-top: 2px solid rgb(223, 190, 128);
+}
+
+.secao2{
+    
+    width: 80%;
+    margin: 5px auto;
+    text-align: center;
+}
+.texto-laranja{
+    text-align: center;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    color: rgb(211, 139, 5);
+}
+
+.titulo{
+    text-align: center;
+    margin: 20px 10px;
+}
+
+.secao2 img{
+    width: 80%;
+    margin-top: 20px;
+    height: 800px;
+    
+}
+
+.secao-produtos{
+    
+    width: 64%;
+    text-align: center;
+    margin: 10px auto;
+    background-color: orange;
+    padding-bottom: 20px;
+}
+
+.titulo-produtos{
+    display: inline-block;
+    margin-top: 40px;
+    color: #f4f0e5;
+    font-size: 30px;
+}
+
+.img-paes{
+    margin-top: 2px;
+    width: 80%;
+}
+
+.subtitulo-produtos{
+    margin-top: 40px;
+    color: #f4f0e5;
+    font-size: 27px;
+}
+
+.secao-produtos p {
+    margin-top: 10px;
+    font-size: 20px;
+    color: #f4f0e5;
+}
+
+.footer{
+    margin: 10px auto;
+    width: 400px;
+    text-align: center;
+
+}
+
+.footer h2{
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.footer p{
+    line-height: 40px;
+}
+
+.footer span{
+    font-weight: bold;
 }
